@@ -2,6 +2,9 @@
 
 This project implements a Escrow program on the Solana blockchain using the Anchor framework. The Escrow allows users to place an order (user can bring 10000 BONK (SPL Token) and want 100 USDC (another SPL token ) in exchange), then another user can match the order (by giving the user 100 USDC and Taking the 10000 BONK).
 
+The improved repository is now located in the Turbine3 Repo; you can find the link below. 
+https://github.com/solana-turbin3/Q3_25_Builder_psolite/tree/main/anchor-escrow
+
 ## Usage
 
 ```bash
